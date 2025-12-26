@@ -1,0 +1,7 @@
+These are 2 projects from my Programming Languages class. One of them is a simple 
+interpreter for a simple language implemented in python. The grammar for this language is provided in grammar.txt. 
+I created all the code for this assignment.
+
+The second project is a simple interpreter for this language implemented with emacs designed to 
+interpret the grammar provided in grammar.txt. For this assignment, 
+the professor provided incomplete code that we had to finish.
