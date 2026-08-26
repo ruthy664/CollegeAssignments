@@ -1,9 +1,11 @@
-This class was my senior seminar. We completed 3 major projects.
+This class was my senior seminar. We completed 3 major projects:
 
-first project - In this project, I created a sentence generator by creating a transition matrix to predict the most likely word based on the previous two words. 
+
+First Project - In this project, I created a sentence generator by creating a transition matrix to predict the most likely word based on the previous two words. 
 
 Second Project - In this project, we I created a second sentence generator, this time using vectors to quatize each word, and use a clustering algorithim to determine similar words to predict the next word in a sentence.
 
 Final Project - In this project, I created a transformer model able to classify the category of a given jepordy question. While the accuracy was only 12% on the testing data, when examining the topics guessed by the model, in many cases the topic was a reasonable guess given the question.
+
 
 Each project is contained in a zip file with a document or notebook containing more detail on the process and results of each project. 
